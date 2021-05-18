@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.ed8424d8.chunk.css",
+    "main.js": "/weather/static/js/main.d0c57b45.chunk.js",
+    "main.js.map": "/weather/static/js/main.d0c57b45.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.9fea3c15.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.9fea3c15.js.map",
+    "static/js/2.68c12bf4.chunk.js": "/weather/static/js/2.68c12bf4.chunk.js",
+    "static/js/2.68c12bf4.chunk.js.map": "/weather/static/js/2.68c12bf4.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "static/css/main.ed8424d8.chunk.css.map": "/weather/static/css/main.ed8424d8.chunk.css.map",
+    "static/js/2.68c12bf4.chunk.js.LICENSE.txt": "/weather/static/js/2.68c12bf4.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather/static/media/tampere.71ef5afd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fea3c15.js",
+    "static/js/2.68c12bf4.chunk.js",
+    "static/css/main.ed8424d8.chunk.css",
+    "static/js/main.d0c57b45.chunk.js"
+  ]
+}
