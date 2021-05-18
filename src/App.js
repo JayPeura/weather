@@ -40,6 +40,7 @@ function App() {
   return (
     <div className='app'>
       <main>
+        <div className="title">Search for a city</div>
         <div className="searchbox">
           <input
           type="text"
